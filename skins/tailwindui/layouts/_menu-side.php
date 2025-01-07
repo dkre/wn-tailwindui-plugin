@@ -25,7 +25,7 @@
                         overflow-y-auto overflow-x-hidden
                     <?php endif; ?>
                 "
-                aria-label="Sidebar"
+                aria-label="Sidebar" style="width:147px"
             >
                 <!-- logo -->
                 <div class="flex items-center mb-4 h-16 shrink-0">
